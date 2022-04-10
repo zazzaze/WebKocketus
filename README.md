@@ -13,7 +13,7 @@ Now WebKocketus allows you to:
  - receive messages as ByteArray using Coroutines Flow
 
  ## Limitations
- WebKocketus works only with URI `wss` scheme, like `wss://localhost:8080`
+ WebKocketus works only with URI `wss` scheme like `wss://localhost:8080`
 
  ## What`s new
  You can research changes in [Changelog file](Changelog.md)
