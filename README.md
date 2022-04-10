@@ -1,4 +1,6 @@
 # WebKocketus
+<img src="webkocketus-logo.png"/>
+
 [![Kotlin](https://img.shields.io/badge/kotlin-1.6.0-blue.svg?logo=kotlin)](http://kotlinlang.org)
 ![WEbSockets](https://img.shields.io/badge/Network-WebSockets-green)
 ![KMM](https://img.shields.io/badge/KMM-Android%20%26%20iOS-yellow)
