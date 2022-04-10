@@ -1,5 +1,5 @@
 # WebKocketus
-<img src="webkocketus-logo.png"/>
+<img src="webkocketus-logo.png" width="200px" height="200px"/>
 
 [![Kotlin](https://img.shields.io/badge/kotlin-1.6.0-blue.svg?logo=kotlin)](http://kotlinlang.org)
 ![WEbSockets](https://img.shields.io/badge/Network-WebSockets-green)
